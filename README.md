@@ -1,4 +1,4 @@
-Política de Privacidade (PT-BR)
+Política de Privacidade PNSF - Cifras (PT-BR)
 ----------------
 
 ### Introdução  
@@ -36,7 +36,7 @@ Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade,
 Informações de contato:
 Email: *[danielinocencio00@gmail.com]*  
 
-Privacy Policy (EN-US)
+Privacy Policy PNSF - Cifras (EN-US)
 ----------------
 
 ### Introduction  
